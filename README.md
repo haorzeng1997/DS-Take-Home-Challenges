@@ -1,2 +1,2 @@
 # DS Take Home Challenges
- self practice
+self-learning
