@@ -1,2 +1,2 @@
 # DS Take Home Challenges
-self-learning
+My solutions of problems from "DS Take Home Challenges".
